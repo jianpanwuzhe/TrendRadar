@@ -52,8 +52,9 @@ ios
 职业教育
 高等教育
 education
-教育+人工智能
-education+ArtificialIntelligence
++教育 +人工智能
 教育技术
++education +ArtificialIntelligence
+
 
 
